@@ -1,24 +1,32 @@
 body {
     background-color: rgb(230, 239, 233);
-    margin: 50px
+    height:55mm;
+    width: 85mm;
+    margin: 50px;
+    border-color: rgb(194, 234, 186);
+    border-width: 1mm;
+    border-style: dashed;
+    font-family: Candara, fantasy;
 }
 
 
 h1 {
-    font-size: 120px;
     color: rgb(80, 86, 77);
+    margin: 5mm;
 }
 
 section {
     color: rgb(100, 110, 94);
     text-align:justify;
-    font-size: 40px;
+    margin: 5mm;
 }
 
 aside {
     float: right;
+    margin: 5mm;
+    border-bottom: 40px; */
 }
 
 aside > section {
-    margin: 0.5rem
+    margin: 1mm
 }
