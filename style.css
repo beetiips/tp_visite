@@ -12,7 +12,8 @@ body {
 
 h1 {
     color: rgb(80, 86, 77);
-    margin: 5mm;
+    padding: 2mm;
+    background-color: rgb(197, 244, 224);
 }
 
 section {
