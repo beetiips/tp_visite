@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(230, 239, 233);
+    margin: 50px
+}
+
+
+h1 {
+    font-size: 120px;
+    color: rgb(80, 86, 77);
+}
+
+section {
+    color: rgb(100, 110, 94);
+    text-align:justify;
+    font-size: 40px;
+}
+
+aside {
+    float: right;
+}
+
+aside > section {
+    margin: 0.5rem
+}
